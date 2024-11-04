@@ -39,4 +39,10 @@ img {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
+    gap: 2px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
 }
