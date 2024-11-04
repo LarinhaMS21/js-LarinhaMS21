@@ -3,7 +3,8 @@ body {
     background: black;
     margin: 0px;
     font-family: "Dancing Script", cursive;
-}
+    marginn-bottom: 100px;
+} 
 
 header {
     border-bottom: solid 2px rgb(128, 0, 128);
@@ -45,6 +46,7 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
  .categoria-videos img {
